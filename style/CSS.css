@@ -1,0 +1,45 @@
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+th,tr,td{
+	text-align: center;
+}
+#hora{
+	background-color: #D54094;
+	color: black;
+	border: 2px solid black;
+}
+
+#L{
+	background-color: gray;
+	
+	color: black;
+	border: 2px solid black;
+}
+#LA{
+	background-color: gray;
+	color: pink;
+	border: 2px solid black;
+}
+#PP{
+	background-color: gray;
+	color: orange;
+	border: 2px solid black;
+}
+#PW{
+	background-color: gray;
+	
+	color: purple;
+	border: 2px solid black;
+}
+#CE{
+	background-color: gray;
+	color: #22F800;
+	border: 2px solid black;
+}
+#TI{
+	background-color: gray;
+	color: blue;
+	border: 2px solid black;
+}
